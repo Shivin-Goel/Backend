@@ -71,7 +71,7 @@ View bids on a specific tender
 
 Download bid documents
 
-2. Vendor
+2.Vendor
 
 View published tenders
 
